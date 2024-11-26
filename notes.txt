@@ -1,0 +1,51 @@
+ceasar cipher
+Hash    
+salt
+HMAC (Hash based Message Authentication Code)
+symmetric Encryption
+
+asymmetric encryption   ->    generate keys
+                              frontend Encryption
+                              backend decryption
+
+
+
+I have a seminar on cryptography in nodejs
+
+I have these topics to cover.
+
+intro
+
+ceasar cipher
+
+hash
+
+salt
+
+hmac
+
+symmetric encryption
+
+asymmetric encryption
+
+conclusion
+
+
+
+
+
+
+crypto
+- hash
+    - hash
+    - salt
+    - hmac
+- encryption
+    - caesar cipher
+    - symmetric 
+    - asymmetric
+
+
+
+      git config --global user.email "shaileshhd.com@gmail.com"
+  git config --global user.name "shaileshhd"
